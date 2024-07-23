@@ -31,36 +31,5 @@ I am passionate about using data to tell compelling stories and drive business i
         <p>Email: <a href="mailto:saveneha22@gmail.com"></a></p>
     </section>
     <script src="script.js"></script>
-</body>
-</html>
-body, html {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
 
-header {
-    background: #333;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-}
-
-section {
-    margin: 20px;
-    padding: 20px;
-    border: 1px solid #ccc;
-}
-
-h1, h2 {
-    color: #333;
-}
-
-ul {
-    list-style-type: none;
-}
-
-a {
-    color: teal;
-}
 
